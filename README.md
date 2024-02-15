@@ -1,7 +1,7 @@
 <h1>Ignacio del Corro</h1>
 <h2>🚀 Project Manager (PM) | Estándares y Optimizaciones 📊</h2>
 
-<p>Hola, soy un PM orientado a resultados y apasionado por la eficiencia en la gestión de proyectos. Me especializo en la implementación de estándares y la optimización de procesos. Aquí hay algunas de mis fortalezas:</p>
+<p>Hola, soy Nacho un PM orientado a resultados y apasionado por la eficiencia en la gestión de proyectos. Me especializo en la implementación de estándares y la optimización de procesos. Aquí hay algunas de mis fortalezas:</p>
 
 <ul>
   <li>✅ PMI: Certificado como Project Management Professional (PM) por el Project Management Institute (PMI) a traves de Linkedn Learning.</li>
